@@ -1,3 +1,7 @@
+
+![download](https://user-images.githubusercontent.com/24986098/153083159-3a0c43b1-1ac2-401a-a721-c3c11a995d5f.png)
+
+
 - 👋 Hi, I’m @NIkhilbadveli
 - 👀 I’m interested in the possibility of bringing Artificial General Intelligence to life.
 - 🌱 I’m currently learning Machine Learning / AI algorithms and the math behind them.
