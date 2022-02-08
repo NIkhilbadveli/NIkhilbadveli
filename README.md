@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on my next ML/AI project that tries to generate XML code from images, in the context of Android app development.
 - 📫 How to reach me :- Drop an email at nikhilbadveli6@gmail.com
 
+</br>
+</br>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbadveli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
